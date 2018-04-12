@@ -1,0 +1,17 @@
+.container{
+    padding-top: 30px;
+}
+a.btn-info{
+    color: #fff;
+    border-radius: 25px;
+    margin-right: 10px;
+}
+ul {padding: 0;}
+ul li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.img-thumbnail{
+    height: 70px;
+    line-height: 70px;
+}
